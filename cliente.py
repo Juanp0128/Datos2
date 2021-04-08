@@ -44,7 +44,7 @@ class Cliente_chat:
                                          'pullon','puta\w+','rame\w+','\w+dicu\w+','sap\w+','\w+jue\w+','su madre',
                                          'tetas','teton','tirar','tont\w+','tripleh\w+','zorra','zunga',
                                          'mond\w+','\w+puta','puti\w+','lameculo','lampara','lampa\w+','lichigo','loba',
-                                         'malpa\w+','mame\w+','marica','mastur\w+','orto','ort0','0rto','pen\w+',
+                                         'malpa\w+','mame\w+','maric\w+','mastur\w+','orto','ort0','0rto','pen\w+',
                                          'perro','pich\w+','pija','pinc\w+','pingo','piro\w+','poll\w+','chim\w+',
                                          'choch\w+','chuchesumadre','chunchurria','chup\w+','\w+erda','cuca','cul\w+',
                                          'delputas','dobleh\w+','estup\w+','fari\w+','follar','garbi\w+','gorrero',
