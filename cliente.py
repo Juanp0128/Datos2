@@ -53,7 +53,7 @@ class Cliente_chat:
                                          'ano','arrec\w+','babo\w+','b0b0','bobo','boba','bochinche','boletoso',
                                          'bombril','cach\w+','caco\w+','carechimba','caremonda','careverga','sarn\w+',
                                          'care\w+','hp\w+','\w+icada','mka','Pende\w+','anal','sexo','mk\w+','mari\w+',
-                                         'monda'], reemplazo="*")
+                                         'monda','m0nda'], reemplazo="*")
             texto = f.cambiar(texto)
             print('Tu: '+texto)
 
