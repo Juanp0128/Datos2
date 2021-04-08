@@ -2,7 +2,7 @@ import socket
 import threading
 import Badwords
 from colorama import Fore
-#En terminal no es posible ver colores (Colorama), Correr en otro lado
+#En terminal no es posible ver colores (Colorama), Correr en otro ladoo
 class Cliente_chat:
     def __init__(self):
         self.crear_connexion()
